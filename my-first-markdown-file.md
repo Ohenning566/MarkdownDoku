@@ -1,14 +1,6 @@
 # Überschrift (1.Ordnung)
-Neuer Text. 
-Ein Zeilenumbruch ensteht erst durch eine Leerzeile.
-Diese drei Zeilen stehen zusammen.
-
-Die Leerzeile erzeugt ein <br> - also Zeilenumbruch.
 
 ## Überschrift (2.Ordnung)
-
-Zeile lalala
-
 
 ### Überschrift (3.Ordnung)
 
@@ -16,4 +8,20 @@ Zeile lalala
 
 ##### Überschrift (5.Ordnung)
 
+# Codes
+## Textbild
+- Neuer Text. Ein Zeilenumbruch ensteht erst durch eine Leerzeile, oder 
+doppelten Space. 
+Diese drei Zeilen stehen zusammen.
 
+- '#' = <H1>
+- '*' oder '_' = kursiv
+- '**' oder '__' = fett
+- '***' oder '___' = fett + kursiv
+- '~~' = durchgestrichen
+## Listen
+- '1.' = nummerierte Liste
+- '"2 spaces"' = bullet-Unterliste
+- '*''-''+' = bullet-Liste
+## Links
+'[Im an inline-style link](https://www.google.com)'
