@@ -14,7 +14,7 @@
 doppelten Space. 
 Diese drei Zeilen stehen zusammen.
 
-- '#' = <H1>
+- '#' = '<H1>'
 - '*' oder '_' = kursiv
 - '**' oder '__' = fett
 - '***' oder '___' = fett + kursiv
@@ -22,6 +22,9 @@ Diese drei Zeilen stehen zusammen.
 ## Listen
 - '1.' = nummerierte Liste
 - '"2 spaces"' = bullet-Unterliste
-- '*''-''+' = bullet-Liste
+- '*' '-' '+' = bullet-Liste
 ## Links
-'[Im an inline-style link](https://www.google.com)'
+``` [Im an inline-style link](https://www.google.com) ```
+ = [Im an inline-style link](https://www.google.com)  
+
+
