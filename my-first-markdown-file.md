@@ -5,8 +5,7 @@
 # Überschrift (1.Ordnung)
 - '##' = Überschrift (2.Ordnung)
 ## Überschrift (2.Ordnung)
-### Überschrift (3.Ordnung)
-#### Überschrift (4.Ordnung)
+- '#####' = Überschrift (5.Ordnung)
 ##### Überschrift (5.Ordnung)
 
 ## Textbild
@@ -20,8 +19,8 @@ Diese drei Zeilen stehen zusammen.
 - '~~' = durchgestrichen
 ## Listen
 - '1.' = nummerierte Liste
-- '"2 spaces"' = bullet-Unterliste
-- '*' '-' '+' = bullet-Liste
+- '  ' = bullet-Unterliste
+- '*' oder '-' oder '+' = bullet-Liste
 ## Links
 ``` [Im an inline-style link](https://www.google.com) ```
  = [Im an inline-style link](https://www.google.com)  
